@@ -1,0 +1,4 @@
+
+curl -s -X POST https://dynalist.io/api/v1/file/list -d @dtoken
+
+curl -s -X POST https://dynalist.io/api/v1/doc/read -d @dtokenDogRun
